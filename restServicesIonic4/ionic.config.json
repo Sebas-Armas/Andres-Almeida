@@ -1,0 +1,7 @@
+{
+  "name": "restServicesIonic4",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

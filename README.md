@@ -1,4 +1,4 @@
-# Galería de Fotos 
+# camaravideo
 
 App Acceso a cámara y despliegue en app de foto y video
 
@@ -15,6 +15,6 @@ hasta el despliegue en dispositivos móviles):
 Código Git:
   - https://github.com/Sebas-Armas/Andres-Almeida
 
-# Web Services 
+# restServicesIonic4
 
 AQUÍ TAMBIÉN

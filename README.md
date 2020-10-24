@@ -17,4 +17,16 @@ Código Git:
 
 # restServicesIonic4
 
-AQUÍ TAMBIÉN
+App Servicio Web 
+
+En el vídeo se muestra un ejemplo de como funciona un servicio web en Ionic en el cual
+se extrae un lista de albums la cual se puede buscar por el nombre, la cual se implemento de manera adicional. 
+A continuación se muestran los enlaces 
+necesarios como  guías y el código en gitHub.
+
+Codigo de Servicio sin barra de busqueda 
+
+https://dcarvajal7.es/llamando-a-servicios-rest-desde-ionic-4/
+
+Código Git:
+  - https://github.com/Sebas-Armas/Andres-Almeida

@@ -1,0 +1,7 @@
+{
+  "name": "SqlLite",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

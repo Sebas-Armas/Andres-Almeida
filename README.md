@@ -12,8 +12,7 @@ hasta el despliegue en dispositivos móviles):
   - https://ionicframework.com/docs
   - https://ionicframework.com/docs/angular/your-first-app
 
-Código Git:
-  - https://github.com/Sebas-Armas/Andres-Almeida
+
 
 # restServicesIonic4
 
@@ -28,5 +27,25 @@ Codigo de Servicio sin barra de busqueda
 
 https://dcarvajal7.es/llamando-a-servicios-rest-desde-ionic-4/
 
-Código Git:
-  - https://github.com/Sebas-Armas/Andres-Almeida
+
+
+# SqLite 
+
+Ionic como crear una aplicación movil con integración de SQLite.
+
+Dependencias necesarias para el funcionamiento de la aplicación
+
+ionic g service services/database
+ionic g page pages/developers
+ionic g page pages/developer
+ 
+npm install @ionic-native/sqlite @ionic-native/sqlite-porter
+ 
+Dependencias para Windows 
+ionic cordova plugin add cordova-sqlite-storage
+ionic cordova plugin add uk.co.workingedge.cordova.plugin.sqliteporter
+
+Dependencias para Mac 
+npm i cordova-sqlite-storage 
+npm i uk.co.workingedge.cordova.plugin.sqliteporter
+
